@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+*Dockerfile*
+*docker-compose*
+*docker.yml
+npm-debug.log
+user.txt
+post.txt
